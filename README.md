@@ -1,0 +1,1 @@
+This repo is for notes, documents, images and other files that do not belong in the main EuroPi respository. It is required so pull requests can be made to the upstream repo without creating files which the upstream admins do not want in their repo.
